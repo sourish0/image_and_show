@@ -1,4 +1,4 @@
 # image_and_show
-run:-
-python -m venv work
+run:- "\n"
+python -m venv work "\n"
 pip install -r requirements.txt
